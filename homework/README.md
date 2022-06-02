@@ -1,19 +1,6 @@
 ## Title Cardano and the coming Crypto Era
 FinTech-Mod1-Challenge - BlockChain & Cryptocurrency 
 
-## Table of the Contents
-
-
-- [ ] [Sections](#sections)
-  - [ ] [Title](#title)
-  - [Overview and Origin](#banner)
-  - [Business Activities](#banner)
-  - [Landscape](#badges)
-  - [Results](#short-description)
-  - [Recommendations](#long-description)
-- [ ] [Sources](#Sources)  
- 
- 
  ## Title  Cardano and the coming crypto era
 
 
