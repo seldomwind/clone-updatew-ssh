@@ -6,6 +6,8 @@
 - [Overview and Origin](##Overview-and-Origin)
 - [Business Activities](#Business-Activities)
 - [Landscape](#Landscape)
+- [Results](#Results)
+- [Recommendations](#Recommendations)
 
 
 
@@ -35,7 +37,7 @@ Atala prism, Cardano, Daedelus are the main driving technologies in IOG's back p
 IOHK is in the blochain and Cryptocurrency doomain They have seen multiple ICO's, the start of Futures Trading, NFTs, Bank settlements and stable coins, Staking, Crypto assest loans,  and Several DEX rollouts. Binance, Coinbase, Ethereum Switzerland Gmbh or ETH, Open Coin, and Kraken are some of the major companies in the current domain.  
 
 
-## Results
+# Results
 
 Generally speaking companies in this domain have a tendancy to view sucess through the price of the underlying assest or by it's Markey cap. Cardano currently ranks 4th as a cryptocurrency if you exclude tether and USD coin (stable coins). Considering these metrics ADA is doing very well for there being a downturn in the market sentiment. IOHK whose most outspoken member is Hoskinson does not tend to measure their success by the valuation or market cap of the coin and has even questioned why it is valued as high as it was during its peak.  IOHK has maintained it's decentralized nature by having over 3000 validators, currently has a contract with Ethopian goverment and is working on expanding it's influence throught South Africa, has never been hacked, and hasn't rolled out new developments without first ensuring that it is functional. Considering that it has steadily been delivering on it's promises though somewhat late is a major plus.  ETH(2nd largest crypto) still remains above Cardano being it's closest rival though they do have focuses on different projects. 
 <br  />
