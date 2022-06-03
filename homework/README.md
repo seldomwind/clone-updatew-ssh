@@ -1,5 +1,9 @@
+**FinTech-Mod1-Challenge - BlockChain & Cryptocurrency
+Jorge Giraldo
+6/3/2022**
+
 ### Title Cardano and the coming Crypto Era
-FinTech-Mod1-Challenge - BlockChain & Cryptocurrency 
+
 
 ## Overview and Origin
 
