@@ -8,7 +8,7 @@
 - [Landscape](#Landscape)
 - [Results](#Results)
 - [Recommendations](#Recommendations)
-- [Sources](##Sources)
+- [Sources](#Sources)
 
 
 
@@ -52,7 +52,7 @@ I would like to see more involment in South America. With Presidents such as Nay
 <br  />
 <br  />
 
-## Sources
+# Sources
 
 - https://roadmap.cardano.org/en/
 - https://www.coindesk.com/markets/2021/04/30/cardano-in-africa-inside-iohks-ethiopia-blockchain-deal/
