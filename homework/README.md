@@ -30,7 +30,7 @@ Atala prism, Cardano, Daedelus are the main driving technologies in IOG's back p
 <br  />
 <br  />
 
-#Landscape
+# Landscape
 
 IOHK is in the blochain and Cryptocurrency doomain They have seen multiple ICO's, the start of Futures Trading, NFTs, Bank settlements and stable coins, Staking, Crypto assest loans,  and Several DEX rollouts. Binance, Coinbase, Ethereum Switzerland Gmbh or ETH, Open Coin, and Kraken are some of the major companies in the current domain.  
 
