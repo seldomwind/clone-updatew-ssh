@@ -1,5 +1,5 @@
 **FinTech-Mod1-Challenge - BlockChain & Cryptocurrency**
-#**Jorge Giraldo**
+# **Jorge Giraldo**
 **6/3/2022**
 
 ###  **IOHK and the coming Crypto Era**
