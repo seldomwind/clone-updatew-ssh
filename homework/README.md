@@ -1,6 +1,5 @@
-**FinTech-Mod1-Challenge - BlockChain & Cryptocurrency**
 # **Jorge Giraldo**
-**6/3/2022**
+**FinTech-Mod1-Challenge - BlockChain & Cryptocurrency6/3/2022**
 
 ###  **IOHK and the coming Crypto Era**
 ![image](https://themarketperiodical.com/wp-content/uploads/2020/11/IOHK-CARDANO-750x375.jpg)
@@ -44,6 +43,7 @@ I would like to see more involment in South America. With Presidents such as Nay
 
 ## Sources
 
+- https://roadmap.cardano.org/en/
 - https://www.coindesk.com/markets/2021/04/30/cardano-in-africa-inside-iohks-ethiopia-blockchain-deal/
 - https://coincost.net/en/currencies#:~:text=Top%20100%20Cryptocurrencies%20%20%20%20Cryptocurrency%20,%2053803900000%201756060%20%2017%20more%20rows%20
 - https://bitcoinmagazine.com/markets/el-salvador-president-nayib-bukele-announces-countries-to-discuss-bitcoin
