@@ -38,21 +38,22 @@ I would like to see more involment in South America. With Presidents such as Nay
 
 ## Sources
 
-https://www.coindesk.com/markets/2021/04/30/cardano-in-africa-inside-iohks-ethiopia-blockchain-deal/https://coincost.net/en/currencies#:~:text=Top%20100%20Cryptocurrencies%20%20%20%20Cryptocurrency%20,%2053803900000%201756060%20%2017%20more%20rows%20
-https://bitcoinmagazine.com/markets/el-salvador-president-nayib-bukele-announces-countries-to-discuss-bitcoin
-https://theglobalamericans.org/wp-content/uploads/2018/12/DOD_South-America_FINAL.pdf#:~:text=Even%20the%20GDP%20growth%20projection%20numbers%20today%20for,percent%2C%20its%20fifth%20straight%20year%20of%20economic%20contraction.
-https://www.bing.com/search?q=euro+to+usd&cvid=13e99accbc4b4e5096013b6b8abc820f&aqs=edge..69i57j0l8.2340j0j4&FORM=ANAB01&PC=U531
-https://iohk.io/en/blog/posts/2022/05/27/everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask/
-https://iohk.io/en/blog/posts/2022/05/27/everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask/
-https://iohk.io/
-https://daedaluswallet.io/
-https://atalaprism.io/app
-https://www.fxstreet.com/cryptocurrencies/news/cardano-responds-to-defi-hacks-doubling-its-bug-bounty-for-security-vulnerabilities-202202170901
-https://www.unlock-bc.com/news/2021-05-01/iohk-world-mobile-group-to-implement-cardano-digital-identity-platform-for-tanzania-businesses
-https://www.weforum.org/agenda/2020/02/africa-global-growth-economics-worldwide-gdp/
-https://coincodex.com/ico/cardano/
-https://topbitcoinbuyer.com/2020/10/26/how-iohk-built-cardano-from-the-ground-up/
-https://cryptoslate.com/companies/input-output-iohk/
-https://coinquora.com/cardanos-organization-iohk-goes-global-renames-to-iog/
-https://coincryptonews.com/2018/07/26/cardano-qa-why-did-charles-leave-ethereum-charles-hoskinson-iohk/
-https://cryptonews.com/news/hoskinson-100-companies-ready-to-leave-ethereum-for-cardano-9536.htm#:~:text=Hoskinson%2C%20a%20former%20prime%20mover%20and%20the%20co-founder,setting%20up%20Cardano%20as%20a%20direct%20rival%20protocol.
+- https://www.coindesk.com/markets/2021/04/30/cardano-in-africa-inside-iohks-ethiopia-blockchain-deal/
+- https://coincost.net/en/currencies#:~:text=Top%20100%20Cryptocurrencies%20%20%20%20Cryptocurrency%20,%2053803900000%201756060%20%2017%20more%20rows%20
+- https://bitcoinmagazine.com/markets/el-salvador-president-nayib-bukele-announces-countries-to-discuss-bitcoin
+- https://theglobalamericans.org/wp-content/uploads/2018/12/DOD_SouthAmerica_FINAL.pdf#:~:text=Even%20the%20GDP%20growth%20projection%20numbers%20today%20for,percent%2C%20its%20fifth%20straight%20year%20of%20economic%20contraction.
+- https://www.bing.com/search?q=euro+to+usd&cvid=13e99accbc4b4e5096013b6b8abc820f&aqs=edge..69i57j0l8.2340j0j4&FORM=ANAB01&PC=U531
+- https://iohk.io/en/blog/posts/2022/05/27/everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask/
+- https://iohk.io/en/blog/posts/2022/05/27/everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask/
+- https://iohk.io/
+- https://daedaluswallet.io/
+- https://atalaprism.io/app
+- https://www.fxstreet.com/cryptocurrencies/news/cardano-responds-to-defi-hacks-doubling-its-bug-bounty-for-security-vulnerabilities-202202170901
+- https://www.unlock-bc.com/news/2021-05-01/iohk-world-mobile-group-to-implement-cardano-digital-identity-platform-for-tanzania-businesses
+- https://www.weforum.org/agenda/2020/02/africa-global-growth-economics-worldwide-gdp/
+- https://coincodex.com/ico/cardano/
+- https://topbitcoinbuyer.com/2020/10/26/how-iohk-built-cardano-from-the-ground-up/
+- https://cryptoslate.com/companies/input-output-iohk/
+- https://coinquora.com/cardanos-organization-iohk-goes-global-renames-to-iog/
+- https://coincryptonews.com/2018/07/26/cardano-qa-why-did-charles-leave-ethereum-charles-hoskinson-iohk/
+- https://cryptonews.com/news/hoskinson-100-companies-ready-to-leave-ethereum-for-cardano-9536.htm#:~:text=Hoskinson%2C%20a%20former%20prime%20mover%20and%20the%20co-founder,setting%20up%20Cardano%20as%20a%20direct%20rival%20protocol.
